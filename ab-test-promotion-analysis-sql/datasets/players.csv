@@ -1,0 +1,1601 @@
+player_id,registration_date,country,player_segment,acquisition_channel,account_status
+200001,2025-10-22,US,New,Organic Search,Active
+200002,2025-09-08,BR,Casual,Email,Active
+200003,2025-11-10,UK,New,Affiliate,Active
+200004,2026-01-14,ES,Regular,Referral,Active
+200005,2025-08-13,NL,New,Organic Search,Active
+200006,2025-08-19,DE,New,Organic Search,Active
+200007,2026-02-27,UK,New,Affiliate,Active
+200008,2025-12-16,US,New,Email,Active
+200009,2025-08-25,US,New,Paid Social,Active
+200010,2025-11-02,UK,Regular,Referral,Active
+200011,2025-12-28,ES,Casual,Organic Search,Active
+200012,2025-08-15,BR,Casual,Organic Search,Active
+200013,2025-12-08,UK,Regular,Referral,Active
+200014,2025-09-24,US,Casual,Display Ads,Active
+200015,2025-08-10,US,Casual,Paid Social,Active
+200016,2025-08-23,NL,New,Paid Social,Active
+200017,2025-11-20,US,New,Paid Social,Active
+200018,2025-11-16,UK,Casual,Affiliate,Active
+200019,2025-08-18,NL,Regular,Paid Social,Active
+200020,2025-10-01,US,New,Paid Social,Active
+200021,2025-08-24,FR,Casual,Referral,Active
+200022,2025-12-20,NL,New,Organic Search,Active
+200023,2025-11-17,US,New,Email,Active
+200024,2025-08-16,DE,Casual,Referral,Active
+200025,2026-02-28,NL,Regular,Display Ads,Active
+200026,2025-12-23,US,VIP,Email,Active
+200027,2025-09-01,DE,Casual,Email,Active
+200028,2025-09-27,BR,New,Paid Social,Active
+200029,2026-01-09,FR,New,Email,Active
+200030,2026-01-08,UK,Casual,Affiliate,Active
+200031,2025-12-28,US,Regular,Paid Social,Active
+200032,2025-08-16,UK,New,Email,Active
+200033,2025-12-26,CA,Regular,Affiliate,Active
+200034,2025-12-28,UK,Regular,Display Ads,Active
+200035,2025-11-10,CA,New,Referral,Active
+200036,2025-08-13,AU,Regular,Email,Active
+200037,2025-09-26,BR,Casual,Email,Active
+200038,2025-08-12,CA,Regular,Affiliate,Active
+200039,2025-12-21,DE,Casual,Email,Active
+200040,2026-03-08,US,Casual,Affiliate,Active
+200041,2025-09-04,UK,Regular,Affiliate,Active
+200042,2025-10-14,CA,Regular,Display Ads,Active
+200043,2025-11-16,FR,New,Referral,Active
+200044,2025-09-06,CA,New,Referral,Active
+200045,2025-12-17,UK,VIP,Display Ads,Active
+200046,2025-08-31,ES,New,Affiliate,Active
+200047,2025-12-25,UK,New,Organic Search,Active
+200048,2025-10-18,NL,New,Referral,Active
+200049,2025-12-22,US,New,Affiliate,Active
+200050,2026-02-25,BR,Casual,Referral,Active
+200051,2026-01-22,UK,New,Display Ads,Active
+200052,2025-09-16,UK,New,Referral,Active
+200053,2025-08-27,FR,Casual,Display Ads,Active
+200054,2025-12-27,DE,New,Email,Active
+200055,2025-12-25,UK,Regular,Display Ads,Active
+200056,2026-01-11,US,Casual,Paid Social,Active
+200057,2025-09-18,US,New,Paid Social,Active
+200058,2025-11-04,ES,Casual,Affiliate,Active
+200059,2025-08-25,DE,Casual,Email,Active
+200060,2025-12-19,ES,Casual,Email,Active
+200061,2026-01-30,NL,New,Referral,Active
+200062,2025-08-17,ES,VIP,Paid Social,Active
+200063,2025-12-23,US,New,Paid Social,Active
+200064,2025-08-16,CA,New,Organic Search,Active
+200065,2026-01-06,DE,Casual,Paid Social,Active
+200066,2025-09-22,US,Regular,Affiliate,Active
+200067,2025-12-06,NL,New,Display Ads,Active
+200068,2026-01-22,NL,New,Affiliate,Active
+200069,2025-12-15,AU,Casual,Affiliate,Locked
+200070,2025-11-18,UK,VIP,Affiliate,Active
+200071,2026-02-15,AU,Casual,Organic Search,Active
+200072,2025-10-20,US,VIP,Paid Social,Active
+200073,2025-11-28,CA,New,Affiliate,Active
+200074,2025-12-28,UK,Regular,Referral,Active
+200075,2025-11-25,BR,New,Display Ads,Active
+200076,2025-11-01,UK,Casual,Affiliate,Active
+200077,2025-10-16,US,Regular,Referral,Active
+200078,2025-10-03,CA,New,Email,Active
+200079,2026-02-20,CA,Regular,Referral,Active
+200080,2025-09-16,CA,Casual,Organic Search,Active
+200081,2026-01-26,US,New,Email,Active
+200082,2026-02-16,UK,New,Referral,Active
+200083,2025-10-02,UK,Casual,Referral,Active
+200084,2025-08-21,BR,New,Organic Search,Active
+200085,2025-12-26,BR,Casual,Display Ads,Active
+200086,2025-10-16,DE,New,Referral,Active
+200087,2025-12-13,UK,New,Organic Search,Active
+200088,2025-12-05,BR,New,Affiliate,Active
+200089,2025-10-27,NL,Casual,Organic Search,Active
+200090,2026-02-03,ES,New,Organic Search,Active
+200091,2025-11-23,BR,New,Referral,Active
+200092,2025-10-13,NL,Casual,Referral,Active
+200093,2026-01-03,US,New,Affiliate,Active
+200094,2025-08-19,NL,Casual,Organic Search,Active
+200095,2025-08-31,US,New,Paid Social,Active
+200096,2025-12-10,UK,Regular,Organic Search,Locked
+200097,2025-11-16,BR,New,Organic Search,Locked
+200098,2025-09-12,ES,New,Organic Search,Active
+200099,2026-02-10,US,VIP,Referral,Active
+200100,2025-10-27,FR,New,Email,Active
+200101,2025-09-08,US,Casual,Affiliate,Active
+200102,2025-12-04,CA,Casual,Referral,Active
+200103,2025-11-16,AU,New,Organic Search,Active
+200104,2025-08-11,UK,Casual,Email,Active
+200105,2026-01-19,DE,Regular,Affiliate,Active
+200106,2025-08-20,ES,Casual,Organic Search,Active
+200107,2026-02-12,AU,New,Affiliate,Active
+200108,2025-12-21,BR,New,Affiliate,Active
+200109,2025-12-25,US,Regular,Email,Active
+200110,2026-02-19,UK,VIP,Referral,Active
+200111,2026-02-26,UK,New,Organic Search,Active
+200112,2025-10-20,US,New,Affiliate,Active
+200113,2025-10-27,DE,Casual,Organic Search,Active
+200114,2026-01-25,FR,Regular,Affiliate,Active
+200115,2025-10-29,AU,Regular,Email,Active
+200116,2025-12-31,NL,Regular,Organic Search,Active
+200117,2025-12-06,US,Casual,Affiliate,Active
+200118,2025-12-27,US,Casual,Paid Social,Active
+200119,2026-02-21,FR,New,Organic Search,Active
+200120,2025-11-25,US,Casual,Email,Active
+200121,2025-08-18,US,Casual,Referral,Active
+200122,2026-03-04,DE,New,Paid Social,Active
+200123,2025-08-24,US,New,Organic Search,Active
+200124,2025-10-09,BR,New,Paid Social,Active
+200125,2025-11-30,AU,Casual,Referral,Active
+200126,2026-01-26,US,New,Display Ads,Locked
+200127,2026-01-18,DE,Regular,Affiliate,Active
+200128,2025-08-17,BR,Casual,Organic Search,Active
+200129,2025-08-16,NL,New,Organic Search,Active
+200130,2026-02-04,US,New,Paid Social,Active
+200131,2026-01-27,US,New,Email,Active
+200132,2025-10-19,NL,New,Organic Search,Active
+200133,2026-01-13,NL,VIP,Affiliate,Active
+200134,2025-12-26,US,New,Organic Search,Active
+200135,2026-01-22,UK,Regular,Paid Social,Active
+200136,2026-02-27,ES,New,Referral,Active
+200137,2025-11-23,AU,New,Referral,Active
+200138,2025-10-12,US,Casual,Organic Search,Active
+200139,2026-01-31,FR,New,Organic Search,Active
+200140,2025-11-07,BR,New,Paid Social,Active
+200141,2026-01-19,DE,Casual,Paid Social,Active
+200142,2025-10-28,US,New,Paid Social,Active
+200143,2025-08-06,US,Casual,Email,Active
+200144,2025-11-27,US,New,Organic Search,Active
+200145,2025-10-30,BR,New,Paid Social,Active
+200146,2025-09-13,US,Regular,Affiliate,Active
+200147,2026-01-04,US,Casual,Email,Active
+200148,2025-08-30,CA,New,Email,Active
+200149,2025-12-05,US,New,Organic Search,Active
+200150,2025-08-16,US,New,Affiliate,Locked
+200151,2025-09-25,US,New,Affiliate,Active
+200152,2026-02-13,DE,Casual,Paid Social,Active
+200153,2025-10-13,ES,New,Email,Active
+200154,2025-09-03,UK,New,Organic Search,Active
+200155,2026-02-06,US,New,Affiliate,Active
+200156,2025-10-03,CA,New,Referral,Active
+200157,2025-11-10,DE,Casual,Display Ads,Active
+200158,2025-11-09,NL,New,Organic Search,Active
+200159,2025-12-06,NL,New,Referral,Active
+200160,2025-08-21,US,Casual,Paid Social,Active
+200161,2025-09-12,US,New,Referral,Active
+200162,2025-11-23,AU,New,Affiliate,Active
+200163,2025-11-11,NL,New,Email,Active
+200164,2025-12-19,UK,Regular,Organic Search,Active
+200165,2025-10-11,BR,New,Display Ads,Active
+200166,2025-09-05,AU,Casual,Paid Social,Active
+200167,2026-02-26,FR,Regular,Email,Active
+200168,2025-11-19,NL,Regular,Paid Social,Active
+200169,2025-12-19,US,Casual,Organic Search,Active
+200170,2025-10-11,US,Regular,Paid Social,Active
+200171,2026-01-28,US,Casual,Referral,Active
+200172,2025-11-15,US,New,Display Ads,Active
+200173,2025-10-31,NL,Casual,Affiliate,Active
+200174,2026-01-22,US,Casual,Paid Social,Active
+200175,2025-11-06,ES,Regular,Display Ads,Active
+200176,2025-09-29,US,New,Referral,Active
+200177,2025-09-08,CA,Casual,Affiliate,Active
+200178,2025-08-22,UK,New,Affiliate,Active
+200179,2025-09-15,US,New,Paid Social,Active
+200180,2025-09-08,DE,New,Affiliate,Active
+200181,2025-09-29,DE,New,Paid Social,Active
+200182,2026-01-16,CA,Regular,Paid Social,Active
+200183,2025-09-29,BR,Regular,Organic Search,Active
+200184,2025-08-04,US,New,Organic Search,Active
+200185,2025-12-03,US,Casual,Email,Active
+200186,2026-03-01,CA,Regular,Referral,Self-Excluded
+200187,2025-12-29,CA,Casual,Paid Social,Active
+200188,2025-09-16,US,New,Email,Active
+200189,2025-10-07,NL,Casual,Organic Search,Active
+200190,2025-10-12,AU,New,Referral,Active
+200191,2025-08-02,US,Casual,Referral,Active
+200192,2025-09-07,CA,Casual,Organic Search,Active
+200193,2025-11-16,US,New,Email,Active
+200194,2025-12-15,UK,Casual,Email,Active
+200195,2025-11-03,US,Casual,Affiliate,Active
+200196,2026-01-04,UK,Casual,Affiliate,Active
+200197,2025-12-23,NL,New,Affiliate,Active
+200198,2025-10-21,UK,Casual,Affiliate,Active
+200199,2025-09-02,FR,New,Organic Search,Active
+200200,2026-01-24,DE,Casual,Paid Social,Active
+200201,2026-03-08,BR,Casual,Email,Active
+200202,2025-12-10,US,New,Affiliate,Active
+200203,2026-01-06,BR,Regular,Paid Social,Active
+200204,2026-01-15,NL,Casual,Email,Active
+200205,2026-01-21,FR,New,Paid Social,Active
+200206,2026-02-06,US,Regular,Organic Search,Active
+200207,2025-08-14,ES,Casual,Affiliate,Active
+200208,2025-11-25,ES,Regular,Organic Search,Active
+200209,2026-02-16,FR,Casual,Affiliate,Active
+200210,2026-01-22,US,Casual,Referral,Active
+200211,2026-02-21,NL,Regular,Organic Search,Active
+200212,2025-12-22,NL,New,Paid Social,Active
+200213,2025-11-09,UK,Casual,Affiliate,Active
+200214,2025-11-10,DE,New,Organic Search,Active
+200215,2025-11-11,US,New,Email,Active
+200216,2025-11-09,NL,Regular,Referral,Active
+200217,2025-08-27,AU,Casual,Organic Search,Active
+200218,2025-12-02,FR,Casual,Affiliate,Active
+200219,2026-01-10,BR,New,Affiliate,Active
+200220,2025-11-11,US,New,Paid Social,Active
+200221,2025-08-16,CA,New,Affiliate,Active
+200222,2025-09-18,US,Regular,Paid Social,Active
+200223,2025-08-18,DE,Casual,Affiliate,Active
+200224,2025-09-23,US,Casual,Paid Social,Active
+200225,2025-11-21,NL,Casual,Affiliate,Active
+200226,2025-09-11,UK,Regular,Organic Search,Active
+200227,2025-08-29,UK,New,Affiliate,Active
+200228,2025-10-27,US,New,Organic Search,Active
+200229,2026-01-01,ES,Casual,Organic Search,Active
+200230,2025-08-14,AU,Casual,Email,Active
+200231,2025-08-27,FR,Regular,Organic Search,Active
+200232,2025-08-01,US,Regular,Affiliate,Active
+200233,2025-12-24,BR,Regular,Paid Social,Active
+200234,2025-09-08,US,Casual,Display Ads,Active
+200235,2025-12-16,AU,Casual,Display Ads,Active
+200236,2025-08-26,DE,New,Paid Social,Active
+200237,2025-11-02,US,Regular,Display Ads,Active
+200238,2026-01-05,UK,Regular,Display Ads,Active
+200239,2025-08-07,FR,Casual,Organic Search,Active
+200240,2025-08-19,US,Regular,Paid Social,Active
+200241,2025-09-23,AU,Regular,Organic Search,Active
+200242,2026-01-05,UK,New,Organic Search,Active
+200243,2025-11-05,NL,Casual,Affiliate,Active
+200244,2025-09-08,AU,VIP,Affiliate,Locked
+200245,2026-01-10,US,New,Affiliate,Active
+200246,2025-10-04,FR,New,Organic Search,Active
+200247,2025-10-28,CA,Regular,Affiliate,Active
+200248,2026-01-02,BR,Regular,Display Ads,Active
+200249,2025-11-02,DE,New,Paid Social,Active
+200250,2025-11-30,UK,Casual,Referral,Active
+200251,2025-09-01,NL,Casual,Paid Social,Active
+200252,2025-08-30,US,Casual,Referral,Active
+200253,2026-03-06,DE,Casual,Affiliate,Active
+200254,2025-12-03,CA,Casual,Display Ads,Active
+200255,2025-11-28,US,Casual,Organic Search,Active
+200256,2025-12-01,BR,Casual,Affiliate,Active
+200257,2025-12-02,DE,New,Paid Social,Active
+200258,2025-10-19,NL,New,Paid Social,Active
+200259,2025-08-22,DE,New,Paid Social,Active
+200260,2025-09-06,CA,Regular,Email,Active
+200261,2025-08-27,NL,Casual,Paid Social,Active
+200262,2026-02-08,US,Casual,Affiliate,Active
+200263,2025-10-27,US,VIP,Organic Search,Active
+200264,2026-02-06,BR,New,Display Ads,Active
+200265,2025-10-07,CA,New,Email,Active
+200266,2025-12-01,CA,New,Referral,Active
+200267,2026-03-01,NL,Regular,Affiliate,Active
+200268,2026-01-25,CA,Casual,Paid Social,Active
+200269,2025-09-11,NL,New,Paid Social,Active
+200270,2025-12-11,FR,New,Affiliate,Active
+200271,2025-08-06,CA,New,Affiliate,Active
+200272,2025-09-22,US,Regular,Email,Active
+200273,2025-12-14,US,New,Paid Social,Active
+200274,2025-11-01,NL,Regular,Email,Active
+200275,2025-09-07,UK,Regular,Paid Social,Active
+200276,2026-01-24,US,VIP,Organic Search,Active
+200277,2025-12-18,US,Casual,Organic Search,Active
+200278,2025-08-07,NL,New,Paid Social,Active
+200279,2026-02-11,US,Casual,Display Ads,Active
+200280,2025-12-14,BR,Regular,Email,Active
+200281,2025-10-16,US,Regular,Referral,Active
+200282,2026-01-12,NL,New,Paid Social,Active
+200283,2025-08-24,DE,Casual,Organic Search,Active
+200284,2026-01-26,US,Regular,Paid Social,Active
+200285,2026-03-05,NL,New,Referral,Active
+200286,2025-10-06,CA,New,Organic Search,Active
+200287,2025-12-11,BR,New,Affiliate,Active
+200288,2025-11-02,DE,Casual,Paid Social,Active
+200289,2025-09-12,US,New,Referral,Active
+200290,2025-10-31,US,Regular,Affiliate,Active
+200291,2026-02-14,US,Casual,Organic Search,Active
+200292,2025-09-27,US,Regular,Paid Social,Active
+200293,2025-12-15,US,Casual,Email,Active
+200294,2025-12-17,US,Casual,Email,Active
+200295,2026-02-16,NL,New,Affiliate,Active
+200296,2025-12-07,US,New,Email,Active
+200297,2025-10-24,UK,Regular,Organic Search,Active
+200298,2026-01-10,US,Casual,Paid Social,Active
+200299,2025-09-27,US,New,Affiliate,Active
+200300,2026-01-04,BR,Casual,Organic Search,Active
+200301,2026-02-24,NL,Regular,Affiliate,Active
+200302,2026-02-18,UK,Regular,Email,Active
+200303,2026-02-11,US,Regular,Organic Search,Active
+200304,2026-03-07,NL,Regular,Organic Search,Active
+200305,2025-09-19,US,Casual,Affiliate,Active
+200306,2026-02-23,UK,Casual,Referral,Active
+200307,2025-10-01,DE,New,Paid Social,Active
+200308,2026-02-26,NL,Casual,Paid Social,Active
+200309,2025-11-11,AU,Casual,Paid Social,Active
+200310,2026-02-06,FR,New,Organic Search,Active
+200311,2026-02-22,UK,New,Referral,Active
+200312,2025-09-28,AU,Casual,Organic Search,Active
+200313,2025-09-21,AU,New,Email,Active
+200314,2025-12-11,NL,New,Affiliate,Active
+200315,2025-12-05,ES,New,Organic Search,Active
+200316,2025-10-31,US,Regular,Referral,Active
+200317,2026-02-04,US,New,Organic Search,Active
+200318,2025-08-08,UK,New,Affiliate,Active
+200319,2025-08-08,UK,New,Organic Search,Active
+200320,2026-02-19,AU,Casual,Affiliate,Active
+200321,2025-10-11,US,New,Affiliate,Active
+200322,2025-11-29,FR,Casual,Affiliate,Active
+200323,2025-10-06,CA,Casual,Referral,Active
+200324,2025-09-19,BR,New,Referral,Active
+200325,2026-01-25,US,New,Organic Search,Active
+200326,2026-01-02,UK,Casual,Organic Search,Active
+200327,2025-10-28,US,New,Display Ads,Active
+200328,2025-11-23,US,New,Paid Social,Active
+200329,2026-02-23,NL,New,Email,Active
+200330,2026-02-02,CA,New,Affiliate,Active
+200331,2025-10-29,NL,Casual,Email,Active
+200332,2025-11-02,DE,New,Organic Search,Active
+200333,2025-08-21,US,New,Affiliate,Active
+200334,2025-09-26,BR,New,Referral,Active
+200335,2025-08-27,US,New,Paid Social,Active
+200336,2025-09-28,AU,Casual,Referral,Active
+200337,2025-11-29,US,Regular,Email,Active
+200338,2025-09-20,ES,Casual,Email,Active
+200339,2025-10-26,US,New,Organic Search,Active
+200340,2025-09-22,CA,Casual,Email,Active
+200341,2025-12-02,NL,Regular,Affiliate,Active
+200342,2026-01-07,UK,New,Organic Search,Active
+200343,2026-01-04,FR,New,Email,Active
+200344,2026-03-04,BR,New,Paid Social,Active
+200345,2025-08-01,US,Casual,Paid Social,Active
+200346,2025-12-01,AU,New,Paid Social,Active
+200347,2026-01-15,NL,Regular,Affiliate,Active
+200348,2025-10-28,US,New,Organic Search,Active
+200349,2026-02-21,DE,Casual,Email,Active
+200350,2026-01-12,US,New,Email,Active
+200351,2025-08-22,BR,New,Paid Social,Active
+200352,2026-03-02,US,New,Display Ads,Active
+200353,2026-01-17,UK,Regular,Organic Search,Active
+200354,2025-08-31,BR,New,Organic Search,Active
+200355,2025-11-08,BR,New,Referral,Active
+200356,2026-02-17,US,New,Paid Social,Active
+200357,2026-01-30,AU,New,Organic Search,Active
+200358,2026-02-09,US,New,Organic Search,Active
+200359,2025-09-21,BR,New,Paid Social,Active
+200360,2025-12-01,UK,VIP,Organic Search,Active
+200361,2025-09-15,US,Regular,Affiliate,Active
+200362,2025-11-20,BR,New,Organic Search,Active
+200363,2026-02-19,BR,Regular,Paid Social,Active
+200364,2026-01-10,ES,New,Email,Active
+200365,2025-10-25,NL,Casual,Affiliate,Active
+200366,2025-08-23,US,Regular,Paid Social,Active
+200367,2026-02-22,US,New,Organic Search,Active
+200368,2026-02-01,US,New,Display Ads,Active
+200369,2025-11-10,DE,Regular,Organic Search,Active
+200370,2025-11-27,UK,Casual,Affiliate,Active
+200371,2025-11-11,CA,VIP,Paid Social,Active
+200372,2026-02-07,UK,New,Referral,Active
+200373,2025-08-22,US,New,Affiliate,Active
+200374,2026-02-02,US,New,Display Ads,Active
+200375,2025-09-10,UK,New,Display Ads,Active
+200376,2025-09-13,US,New,Referral,Active
+200377,2025-09-02,UK,Casual,Affiliate,Active
+200378,2025-08-08,NL,New,Affiliate,Active
+200379,2025-09-08,US,Casual,Display Ads,Active
+200380,2025-12-30,FR,Casual,Referral,Active
+200381,2025-11-28,FR,New,Referral,Active
+200382,2026-02-23,US,Casual,Display Ads,Active
+200383,2026-01-15,UK,VIP,Paid Social,Active
+200384,2025-09-07,NL,New,Email,Active
+200385,2026-01-04,CA,Casual,Referral,Active
+200386,2026-02-28,ES,New,Paid Social,Active
+200387,2025-12-31,AU,VIP,Referral,Active
+200388,2025-11-30,CA,Regular,Organic Search,Active
+200389,2026-01-16,NL,VIP,Organic Search,Active
+200390,2025-10-29,FR,New,Email,Active
+200391,2025-09-09,UK,New,Display Ads,Active
+200392,2025-12-19,ES,New,Paid Social,Active
+200393,2025-12-19,UK,New,Paid Social,Active
+200394,2025-09-03,ES,VIP,Organic Search,Active
+200395,2025-08-06,US,Casual,Display Ads,Active
+200396,2025-08-04,NL,Casual,Paid Social,Active
+200397,2026-02-21,DE,New,Affiliate,Active
+200398,2026-02-02,US,Regular,Email,Active
+200399,2026-01-14,UK,New,Affiliate,Active
+200400,2025-08-27,NL,Casual,Display Ads,Active
+200401,2025-12-13,BR,Casual,Paid Social,Active
+200402,2026-02-08,UK,Casual,Email,Active
+200403,2025-09-05,CA,Casual,Organic Search,Active
+200404,2025-11-20,CA,Casual,Affiliate,Active
+200405,2025-09-19,NL,Casual,Referral,Active
+200406,2026-02-28,US,Casual,Paid Social,Active
+200407,2025-09-24,NL,Regular,Email,Active
+200408,2025-08-08,AU,New,Display Ads,Active
+200409,2025-10-04,US,New,Paid Social,Active
+200410,2025-09-24,CA,Regular,Affiliate,Active
+200411,2025-10-14,DE,Regular,Organic Search,Active
+200412,2025-12-07,BR,Casual,Paid Social,Active
+200413,2025-10-01,NL,New,Affiliate,Active
+200414,2026-02-12,NL,Regular,Organic Search,Active
+200415,2025-12-29,US,VIP,Display Ads,Active
+200416,2025-10-23,US,Casual,Organic Search,Active
+200417,2025-10-06,UK,New,Affiliate,Active
+200418,2025-12-18,DE,New,Organic Search,Active
+200419,2025-11-16,FR,Casual,Paid Social,Active
+200420,2026-03-02,US,New,Email,Active
+200421,2025-09-03,FR,New,Paid Social,Active
+200422,2025-08-16,NL,VIP,Email,Active
+200423,2026-02-06,NL,Casual,Email,Active
+200424,2025-10-30,NL,Casual,Paid Social,Active
+200425,2025-11-26,NL,New,Organic Search,Active
+200426,2026-01-17,NL,New,Email,Active
+200427,2025-12-28,US,New,Display Ads,Active
+200428,2026-02-25,NL,New,Paid Social,Active
+200429,2025-12-11,US,Casual,Organic Search,Active
+200430,2025-11-16,CA,Regular,Email,Active
+200431,2026-02-28,UK,VIP,Affiliate,Active
+200432,2025-12-07,NL,VIP,Paid Social,Active
+200433,2025-09-03,FR,New,Organic Search,Active
+200434,2025-12-15,CA,New,Affiliate,Active
+200435,2025-09-08,CA,Casual,Display Ads,Active
+200436,2025-12-13,NL,New,Organic Search,Active
+200437,2025-12-09,AU,Regular,Referral,Active
+200438,2025-08-05,US,Casual,Paid Social,Active
+200439,2025-11-21,US,Casual,Affiliate,Active
+200440,2026-02-15,CA,New,Affiliate,Active
+200441,2025-09-16,US,New,Affiliate,Active
+200442,2026-01-03,DE,Casual,Organic Search,Active
+200443,2025-08-02,US,New,Email,Active
+200444,2026-02-15,DE,VIP,Display Ads,Active
+200445,2026-02-21,NL,Regular,Affiliate,Active
+200446,2025-09-08,AU,Regular,Paid Social,Active
+200447,2025-09-14,US,Regular,Email,Active
+200448,2025-09-06,US,Casual,Organic Search,Active
+200449,2025-11-30,UK,Regular,Organic Search,Active
+200450,2026-01-06,FR,Casual,Referral,Active
+200451,2026-02-02,UK,Casual,Affiliate,Active
+200452,2025-08-31,US,New,Affiliate,Active
+200453,2025-12-21,CA,Casual,Organic Search,Active
+200454,2025-08-16,US,Casual,Email,Active
+200455,2025-10-23,AU,Casual,Referral,Active
+200456,2026-01-22,ES,Regular,Organic Search,Active
+200457,2025-12-11,UK,Casual,Referral,Active
+200458,2025-12-14,ES,New,Display Ads,Active
+200459,2025-12-21,UK,New,Paid Social,Active
+200460,2025-12-02,DE,Regular,Display Ads,Active
+200461,2026-02-17,CA,Regular,Display Ads,Active
+200462,2026-02-15,UK,New,Email,Active
+200463,2025-08-28,NL,New,Affiliate,Active
+200464,2025-12-22,BR,New,Affiliate,Active
+200465,2025-08-15,AU,New,Paid Social,Active
+200466,2025-10-03,US,Regular,Email,Active
+200467,2025-09-18,UK,New,Organic Search,Active
+200468,2025-10-10,CA,Casual,Affiliate,Active
+200469,2025-08-11,US,Regular,Affiliate,Active
+200470,2026-02-14,UK,New,Display Ads,Active
+200471,2025-08-26,US,Casual,Email,Active
+200472,2025-12-08,US,Casual,Affiliate,Active
+200473,2025-11-24,BR,New,Affiliate,Active
+200474,2025-12-22,ES,New,Referral,Active
+200475,2025-08-08,ES,New,Affiliate,Active
+200476,2026-02-11,US,New,Paid Social,Active
+200477,2025-08-17,US,New,Organic Search,Active
+200478,2025-11-22,US,New,Affiliate,Active
+200479,2025-10-23,US,New,Paid Social,Active
+200480,2026-01-04,US,VIP,Paid Social,Self-Excluded
+200481,2025-12-08,NL,Casual,Paid Social,Active
+200482,2026-01-03,NL,Regular,Organic Search,Active
+200483,2025-12-10,US,Regular,Affiliate,Active
+200484,2025-09-21,US,New,Organic Search,Active
+200485,2026-01-25,NL,New,Organic Search,Active
+200486,2025-10-10,DE,VIP,Email,Self-Excluded
+200487,2025-11-24,CA,Casual,Organic Search,Active
+200488,2025-12-09,UK,Casual,Referral,Active
+200489,2025-12-15,US,Regular,Affiliate,Active
+200490,2026-02-23,DE,New,Paid Social,Active
+200491,2025-12-01,ES,Casual,Affiliate,Active
+200492,2025-12-08,UK,New,Affiliate,Active
+200493,2025-10-03,AU,New,Display Ads,Active
+200494,2026-01-26,US,New,Display Ads,Active
+200495,2025-12-12,FR,New,Affiliate,Active
+200496,2025-10-06,NL,New,Paid Social,Active
+200497,2025-12-22,US,Casual,Affiliate,Active
+200498,2025-09-21,UK,Casual,Organic Search,Active
+200499,2026-03-04,FR,Regular,Affiliate,Active
+200500,2025-11-23,CA,New,Organic Search,Active
+200501,2025-09-05,NL,New,Paid Social,Active
+200502,2025-11-15,UK,Casual,Referral,Self-Excluded
+200503,2025-09-01,UK,New,Email,Active
+200504,2025-11-09,NL,Regular,Affiliate,Active
+200505,2025-11-22,US,New,Display Ads,Active
+200506,2025-10-20,AU,New,Organic Search,Active
+200507,2025-08-19,US,Regular,Paid Social,Active
+200508,2026-01-19,CA,New,Affiliate,Active
+200509,2025-10-01,UK,Casual,Affiliate,Active
+200510,2025-11-18,UK,New,Affiliate,Active
+200511,2025-08-19,US,New,Organic Search,Active
+200512,2025-09-24,CA,Casual,Referral,Active
+200513,2026-01-19,CA,Casual,Organic Search,Active
+200514,2025-10-17,NL,New,Paid Social,Active
+200515,2026-02-17,NL,Casual,Organic Search,Active
+200516,2025-09-01,DE,Casual,Referral,Active
+200517,2026-02-15,NL,Casual,Organic Search,Active
+200518,2025-09-09,AU,New,Display Ads,Active
+200519,2026-01-31,CA,Casual,Paid Social,Active
+200520,2026-01-12,US,VIP,Paid Social,Active
+200521,2026-01-17,FR,New,Paid Social,Active
+200522,2025-11-02,CA,Casual,Affiliate,Active
+200523,2025-09-06,US,New,Paid Social,Active
+200524,2025-10-04,NL,Casual,Referral,Active
+200525,2025-09-05,NL,New,Referral,Active
+200526,2025-11-28,DE,Casual,Affiliate,Active
+200527,2025-09-26,FR,Casual,Email,Active
+200528,2026-02-08,FR,Regular,Referral,Active
+200529,2025-08-25,NL,Regular,Organic Search,Active
+200530,2025-11-10,UK,Regular,Paid Social,Active
+200531,2025-12-03,DE,VIP,Affiliate,Active
+200532,2025-09-11,US,New,Paid Social,Active
+200533,2026-01-18,US,Regular,Paid Social,Active
+200534,2026-03-02,DE,Regular,Affiliate,Active
+200535,2025-09-27,US,New,Email,Active
+200536,2025-09-11,US,Casual,Affiliate,Active
+200537,2026-01-28,CA,Casual,Email,Active
+200538,2025-11-19,BR,New,Affiliate,Active
+200539,2025-12-10,US,Casual,Organic Search,Locked
+200540,2025-11-12,AU,Casual,Display Ads,Active
+200541,2025-10-26,ES,Casual,Organic Search,Active
+200542,2025-11-16,FR,New,Paid Social,Active
+200543,2025-09-20,NL,Regular,Organic Search,Active
+200544,2025-10-31,US,New,Affiliate,Active
+200545,2025-10-21,US,Regular,Referral,Active
+200546,2025-08-24,NL,New,Paid Social,Active
+200547,2026-02-01,NL,Casual,Display Ads,Active
+200548,2025-11-02,US,New,Organic Search,Active
+200549,2025-08-05,BR,Casual,Display Ads,Active
+200550,2025-10-26,US,Casual,Email,Active
+200551,2025-12-20,US,New,Organic Search,Active
+200552,2025-11-26,US,Casual,Organic Search,Active
+200553,2025-11-21,US,Casual,Organic Search,Active
+200554,2026-01-28,UK,New,Affiliate,Active
+200555,2025-08-05,NL,New,Paid Social,Active
+200556,2025-11-07,UK,New,Display Ads,Active
+200557,2025-10-24,US,New,Organic Search,Active
+200558,2025-12-11,US,Regular,Email,Active
+200559,2026-01-07,US,New,Paid Social,Active
+200560,2025-10-15,US,Regular,Organic Search,Active
+200561,2025-12-10,UK,Casual,Referral,Active
+200562,2025-08-17,UK,Casual,Affiliate,Active
+200563,2025-08-29,US,Casual,Organic Search,Active
+200564,2026-02-18,CA,New,Paid Social,Active
+200565,2025-09-28,US,Regular,Organic Search,Active
+200566,2025-08-27,FR,New,Organic Search,Active
+200567,2025-08-22,UK,Regular,Affiliate,Active
+200568,2025-10-07,US,New,Affiliate,Active
+200569,2025-10-09,UK,New,Organic Search,Active
+200570,2025-08-11,US,New,Paid Social,Active
+200571,2026-02-16,US,Casual,Display Ads,Active
+200572,2025-09-16,US,New,Paid Social,Active
+200573,2025-10-09,BR,Casual,Affiliate,Active
+200574,2026-02-10,US,Casual,Organic Search,Locked
+200575,2025-09-03,NL,Casual,Organic Search,Active
+200576,2026-02-26,UK,New,Affiliate,Active
+200577,2025-11-17,US,Regular,Paid Social,Active
+200578,2026-03-06,ES,Casual,Referral,Active
+200579,2026-01-21,BR,New,Paid Social,Active
+200580,2026-02-26,NL,Casual,Paid Social,Active
+200581,2025-10-06,US,New,Affiliate,Active
+200582,2025-11-12,BR,Casual,Referral,Active
+200583,2025-09-08,AU,New,Paid Social,Active
+200584,2025-12-16,CA,Regular,Referral,Active
+200585,2025-12-10,UK,New,Affiliate,Active
+200586,2025-12-25,FR,New,Email,Active
+200587,2025-12-05,US,New,Referral,Active
+200588,2026-01-27,NL,Casual,Email,Active
+200589,2025-10-23,ES,New,Paid Social,Active
+200590,2025-08-23,AU,Casual,Organic Search,Active
+200591,2025-10-11,UK,Casual,Organic Search,Active
+200592,2025-08-15,UK,Casual,Paid Social,Active
+200593,2026-02-21,US,New,Paid Social,Active
+200594,2026-01-24,CA,New,Paid Social,Active
+200595,2025-09-16,ES,New,Organic Search,Active
+200596,2025-11-17,NL,New,Paid Social,Active
+200597,2025-08-19,US,Casual,Paid Social,Active
+200598,2025-10-08,US,Regular,Organic Search,Active
+200599,2025-08-05,US,Regular,Email,Active
+200600,2026-01-10,UK,VIP,Affiliate,Active
+200601,2025-08-23,BR,New,Organic Search,Active
+200602,2026-02-22,US,Casual,Paid Social,Active
+200603,2025-10-06,UK,New,Affiliate,Active
+200604,2025-08-22,UK,Regular,Organic Search,Active
+200605,2026-01-03,AU,Regular,Affiliate,Active
+200606,2026-03-08,US,Casual,Referral,Active
+200607,2025-09-26,US,VIP,Organic Search,Active
+200608,2025-08-18,UK,Casual,Affiliate,Active
+200609,2025-10-07,CA,Casual,Email,Active
+200610,2026-03-09,US,New,Referral,Active
+200611,2025-09-01,BR,Regular,Affiliate,Active
+200612,2025-11-25,ES,Casual,Organic Search,Active
+200613,2025-08-03,US,Casual,Display Ads,Active
+200614,2025-10-26,DE,New,Display Ads,Active
+200615,2025-12-20,BR,Regular,Email,Active
+200616,2025-11-15,NL,New,Organic Search,Active
+200617,2025-10-08,US,Casual,Affiliate,Active
+200618,2026-01-07,BR,New,Email,Active
+200619,2025-09-03,US,New,Affiliate,Active
+200620,2025-08-12,ES,New,Display Ads,Active
+200621,2025-12-13,DE,Casual,Affiliate,Active
+200622,2026-01-29,NL,Regular,Organic Search,Active
+200623,2025-10-01,FR,New,Paid Social,Active
+200624,2025-08-29,US,New,Display Ads,Active
+200625,2025-09-11,ES,Casual,Display Ads,Active
+200626,2025-10-07,US,New,Display Ads,Active
+200627,2025-08-13,AU,New,Organic Search,Active
+200628,2025-09-16,US,Casual,Paid Social,Active
+200629,2025-09-21,CA,New,Affiliate,Active
+200630,2025-10-19,ES,Regular,Organic Search,Active
+200631,2026-01-08,US,New,Email,Active
+200632,2025-10-18,FR,Casual,Affiliate,Active
+200633,2025-12-14,ES,New,Referral,Active
+200634,2026-02-11,BR,VIP,Affiliate,Active
+200635,2025-09-22,NL,New,Paid Social,Active
+200636,2025-10-14,UK,Casual,Email,Active
+200637,2025-11-23,US,New,Paid Social,Active
+200638,2025-12-07,US,New,Affiliate,Active
+200639,2026-01-20,UK,New,Paid Social,Active
+200640,2025-09-15,US,New,Referral,Active
+200641,2025-10-09,ES,New,Referral,Active
+200642,2025-10-28,US,Casual,Affiliate,Active
+200643,2026-02-22,US,Casual,Paid Social,Active
+200644,2025-08-05,NL,New,Organic Search,Active
+200645,2025-10-04,BR,Regular,Organic Search,Active
+200646,2025-08-10,US,New,Affiliate,Active
+200647,2025-08-04,CA,Casual,Organic Search,Active
+200648,2025-08-05,AU,Regular,Paid Social,Active
+200649,2026-02-04,FR,Casual,Display Ads,Active
+200650,2025-12-08,US,New,Affiliate,Active
+200651,2025-12-20,UK,New,Paid Social,Active
+200652,2025-09-18,AU,New,Display Ads,Active
+200653,2025-12-10,US,New,Display Ads,Active
+200654,2025-11-30,NL,Casual,Email,Active
+200655,2025-10-02,DE,VIP,Paid Social,Active
+200656,2025-11-23,US,New,Email,Active
+200657,2025-08-28,BR,Regular,Email,Active
+200658,2026-01-16,US,New,Affiliate,Active
+200659,2026-02-26,UK,VIP,Affiliate,Active
+200660,2026-01-14,DE,New,Paid Social,Active
+200661,2025-11-19,US,New,Paid Social,Active
+200662,2026-01-16,NL,New,Affiliate,Active
+200663,2025-12-05,ES,New,Affiliate,Active
+200664,2025-12-18,US,New,Affiliate,Active
+200665,2026-03-02,US,Regular,Email,Active
+200666,2025-11-09,US,Casual,Paid Social,Active
+200667,2025-12-08,DE,New,Organic Search,Active
+200668,2025-10-18,US,Casual,Organic Search,Active
+200669,2026-01-24,DE,Casual,Affiliate,Active
+200670,2025-09-25,AU,New,Organic Search,Active
+200671,2025-09-28,NL,VIP,Paid Social,Active
+200672,2025-10-27,US,New,Organic Search,Active
+200673,2025-09-20,CA,Casual,Organic Search,Active
+200674,2026-03-02,UK,New,Display Ads,Active
+200675,2026-01-28,UK,Casual,Paid Social,Active
+200676,2026-02-03,UK,VIP,Email,Active
+200677,2026-01-10,UK,Regular,Affiliate,Active
+200678,2025-09-05,BR,New,Display Ads,Active
+200679,2025-11-12,CA,Casual,Organic Search,Active
+200680,2025-10-28,CA,Casual,Paid Social,Active
+200681,2025-08-14,UK,New,Paid Social,Active
+200682,2026-03-03,US,Casual,Referral,Active
+200683,2025-09-03,FR,New,Paid Social,Active
+200684,2025-08-04,UK,Regular,Affiliate,Active
+200685,2025-08-19,NL,New,Organic Search,Active
+200686,2026-01-08,AU,New,Organic Search,Active
+200687,2026-02-06,US,Regular,Email,Active
+200688,2025-10-05,US,New,Email,Active
+200689,2025-11-19,BR,Casual,Email,Active
+200690,2025-09-11,DE,Regular,Display Ads,Active
+200691,2025-08-15,US,Casual,Email,Active
+200692,2025-08-22,FR,Regular,Organic Search,Active
+200693,2026-01-18,UK,New,Paid Social,Active
+200694,2026-03-04,BR,New,Paid Social,Active
+200695,2025-11-06,BR,Casual,Display Ads,Active
+200696,2025-12-08,NL,New,Organic Search,Active
+200697,2026-01-19,ES,VIP,Referral,Active
+200698,2025-10-12,NL,Casual,Organic Search,Active
+200699,2026-01-01,US,Casual,Organic Search,Active
+200700,2025-10-02,CA,Casual,Paid Social,Active
+200701,2026-01-25,US,Casual,Affiliate,Active
+200702,2025-10-15,AU,New,Email,Active
+200703,2025-08-12,US,New,Email,Active
+200704,2025-11-26,DE,New,Paid Social,Active
+200705,2025-09-17,UK,New,Display Ads,Active
+200706,2025-09-10,AU,Casual,Organic Search,Active
+200707,2025-10-08,UK,New,Organic Search,Active
+200708,2025-11-23,US,Regular,Affiliate,Active
+200709,2025-08-01,UK,New,Paid Social,Active
+200710,2025-10-07,US,New,Email,Active
+200711,2025-11-02,CA,Regular,Organic Search,Active
+200712,2025-10-24,FR,Casual,Email,Active
+200713,2025-12-19,US,New,Paid Social,Active
+200714,2025-10-22,NL,Casual,Email,Active
+200715,2025-10-02,DE,New,Organic Search,Active
+200716,2025-08-09,CA,New,Display Ads,Active
+200717,2025-10-19,AU,VIP,Email,Active
+200718,2025-09-25,US,Regular,Affiliate,Active
+200719,2025-10-31,CA,Casual,Email,Active
+200720,2025-09-16,NL,New,Email,Active
+200721,2025-08-01,US,Casual,Email,Active
+200722,2025-10-25,BR,New,Referral,Locked
+200723,2025-11-06,US,New,Display Ads,Active
+200724,2025-08-22,DE,Regular,Affiliate,Active
+200725,2025-11-30,FR,New,Referral,Active
+200726,2025-10-11,US,New,Affiliate,Active
+200727,2025-12-07,CA,Regular,Display Ads,Active
+200728,2026-01-15,DE,Casual,Organic Search,Active
+200729,2025-09-21,DE,Casual,Referral,Active
+200730,2025-10-03,US,New,Paid Social,Active
+200731,2025-12-08,UK,Casual,Referral,Active
+200732,2026-02-15,NL,New,Organic Search,Active
+200733,2025-08-02,CA,New,Paid Social,Active
+200734,2025-08-24,BR,New,Referral,Active
+200735,2025-10-07,US,Regular,Paid Social,Active
+200736,2026-02-26,UK,Casual,Referral,Locked
+200737,2025-08-23,UK,Casual,Affiliate,Active
+200738,2025-09-06,DE,New,Organic Search,Active
+200739,2025-11-11,ES,Casual,Referral,Active
+200740,2025-12-29,BR,New,Paid Social,Active
+200741,2025-08-11,ES,New,Paid Social,Active
+200742,2025-11-09,BR,Casual,Affiliate,Active
+200743,2025-08-06,NL,Casual,Paid Social,Active
+200744,2025-10-16,CA,VIP,Paid Social,Active
+200745,2025-10-17,AU,Regular,Organic Search,Active
+200746,2026-01-09,UK,New,Affiliate,Active
+200747,2025-09-29,US,New,Referral,Active
+200748,2025-08-22,US,New,Organic Search,Active
+200749,2025-12-28,BR,New,Affiliate,Active
+200750,2025-12-14,FR,Casual,Organic Search,Active
+200751,2026-03-07,US,New,Affiliate,Active
+200752,2026-02-09,DE,New,Paid Social,Active
+200753,2025-09-09,US,Casual,Paid Social,Active
+200754,2026-01-16,UK,Regular,Referral,Active
+200755,2026-01-31,DE,Regular,Affiliate,Active
+200756,2026-02-17,FR,New,Affiliate,Active
+200757,2025-12-31,US,New,Paid Social,Active
+200758,2025-11-08,US,New,Email,Active
+200759,2026-02-12,DE,New,Paid Social,Active
+200760,2025-10-23,AU,Regular,Affiliate,Active
+200761,2026-02-01,BR,New,Organic Search,Active
+200762,2025-12-05,CA,Casual,Display Ads,Active
+200763,2025-09-08,DE,Casual,Display Ads,Active
+200764,2025-10-12,ES,Casual,Organic Search,Active
+200765,2026-02-02,NL,Regular,Affiliate,Active
+200766,2026-01-06,UK,New,Organic Search,Active
+200767,2026-01-12,NL,New,Paid Social,Active
+200768,2025-09-07,CA,Casual,Email,Active
+200769,2025-08-12,US,New,Affiliate,Active
+200770,2026-02-28,US,New,Organic Search,Active
+200771,2026-03-02,ES,New,Display Ads,Active
+200772,2026-01-31,NL,New,Affiliate,Active
+200773,2025-12-10,UK,New,Organic Search,Active
+200774,2026-01-08,ES,New,Paid Social,Active
+200775,2025-11-18,US,Regular,Organic Search,Active
+200776,2026-02-04,UK,New,Email,Active
+200777,2026-01-27,UK,New,Paid Social,Active
+200778,2026-02-24,UK,Regular,Affiliate,Active
+200779,2025-12-08,US,Regular,Email,Active
+200780,2025-09-05,FR,Casual,Affiliate,Active
+200781,2025-12-13,ES,VIP,Organic Search,Active
+200782,2026-02-09,FR,New,Organic Search,Active
+200783,2025-12-08,BR,Casual,Organic Search,Active
+200784,2025-12-24,UK,Regular,Referral,Active
+200785,2026-03-02,AU,VIP,Affiliate,Active
+200786,2026-02-25,DE,New,Paid Social,Active
+200787,2026-02-22,NL,Casual,Paid Social,Active
+200788,2025-08-05,UK,New,Organic Search,Active
+200789,2026-02-28,ES,New,Organic Search,Active
+200790,2026-01-23,US,Regular,Affiliate,Active
+200791,2025-12-28,US,Regular,Email,Active
+200792,2026-02-21,NL,New,Affiliate,Active
+200793,2026-01-30,CA,New,Referral,Active
+200794,2026-01-22,US,VIP,Affiliate,Active
+200795,2026-01-25,FR,Casual,Organic Search,Active
+200796,2026-01-12,NL,Casual,Organic Search,Active
+200797,2025-09-28,BR,New,Email,Active
+200798,2025-08-22,NL,Casual,Email,Active
+200799,2025-08-08,NL,New,Display Ads,Active
+200800,2025-08-11,UK,New,Paid Social,Active
+200801,2025-09-04,US,New,Referral,Active
+200802,2026-01-11,US,Casual,Referral,Active
+200803,2025-11-01,US,Casual,Referral,Active
+200804,2025-08-27,FR,Casual,Email,Active
+200805,2025-11-05,NL,New,Display Ads,Active
+200806,2026-03-02,US,Casual,Organic Search,Active
+200807,2025-11-24,AU,Regular,Referral,Active
+200808,2025-12-21,BR,Regular,Paid Social,Locked
+200809,2025-08-13,ES,Regular,Email,Active
+200810,2026-01-08,US,New,Display Ads,Active
+200811,2025-08-05,US,Casual,Display Ads,Active
+200812,2026-01-08,BR,Regular,Referral,Active
+200813,2025-12-15,FR,New,Display Ads,Active
+200814,2026-01-22,CA,Casual,Organic Search,Active
+200815,2025-10-02,CA,Regular,Organic Search,Active
+200816,2025-12-04,US,Casual,Paid Social,Active
+200817,2025-10-07,NL,Casual,Referral,Active
+200818,2025-08-01,AU,New,Email,Active
+200819,2025-11-25,NL,New,Email,Active
+200820,2026-02-21,AU,Casual,Organic Search,Active
+200821,2025-08-18,UK,Casual,Referral,Active
+200822,2026-02-08,AU,New,Affiliate,Active
+200823,2025-12-07,US,New,Organic Search,Active
+200824,2025-12-16,ES,New,Affiliate,Active
+200825,2025-08-24,US,Casual,Email,Active
+200826,2026-01-16,UK,New,Organic Search,Active
+200827,2025-12-13,NL,Casual,Email,Active
+200828,2025-08-17,UK,New,Organic Search,Self-Excluded
+200829,2026-02-07,NL,Casual,Organic Search,Active
+200830,2026-02-05,DE,New,Paid Social,Active
+200831,2025-11-30,US,Regular,Email,Active
+200832,2025-10-04,US,New,Email,Active
+200833,2026-02-24,US,New,Email,Active
+200834,2025-08-20,DE,Regular,Organic Search,Active
+200835,2026-03-05,AU,New,Organic Search,Locked
+200836,2025-10-07,US,New,Organic Search,Active
+200837,2025-09-30,UK,New,Organic Search,Active
+200838,2026-02-03,NL,New,Paid Social,Active
+200839,2026-02-10,UK,New,Display Ads,Active
+200840,2025-09-22,NL,New,Referral,Active
+200841,2025-09-29,AU,Casual,Paid Social,Active
+200842,2026-02-06,UK,New,Display Ads,Active
+200843,2026-01-14,FR,Casual,Affiliate,Active
+200844,2025-11-26,US,New,Organic Search,Active
+200845,2025-12-05,UK,Casual,Organic Search,Active
+200846,2026-03-05,BR,Casual,Affiliate,Active
+200847,2025-11-06,US,Regular,Organic Search,Active
+200848,2025-08-20,US,Casual,Paid Social,Active
+200849,2025-12-01,US,New,Paid Social,Active
+200850,2026-01-23,US,New,Affiliate,Active
+200851,2025-10-13,US,Regular,Display Ads,Active
+200852,2026-02-13,BR,Casual,Organic Search,Self-Excluded
+200853,2025-08-12,UK,New,Display Ads,Active
+200854,2026-01-05,DE,New,Paid Social,Active
+200855,2026-01-09,CA,Casual,Paid Social,Active
+200856,2026-01-12,US,Casual,Paid Social,Active
+200857,2025-09-20,DE,New,Paid Social,Active
+200858,2025-08-20,BR,New,Paid Social,Active
+200859,2026-01-01,US,New,Paid Social,Active
+200860,2025-09-07,UK,Regular,Email,Active
+200861,2025-10-24,FR,New,Paid Social,Active
+200862,2025-10-05,NL,Regular,Paid Social,Active
+200863,2026-01-14,US,Regular,Display Ads,Active
+200864,2026-02-07,UK,New,Email,Active
+200865,2026-01-25,DE,Regular,Organic Search,Active
+200866,2025-10-17,US,New,Affiliate,Active
+200867,2026-01-07,FR,New,Affiliate,Active
+200868,2025-12-24,NL,New,Organic Search,Active
+200869,2025-09-04,US,New,Paid Social,Active
+200870,2025-08-04,UK,New,Organic Search,Active
+200871,2025-12-02,US,Regular,Organic Search,Active
+200872,2025-08-16,UK,Regular,Affiliate,Active
+200873,2025-12-03,NL,New,Organic Search,Active
+200874,2025-10-08,DE,New,Affiliate,Active
+200875,2026-01-20,US,VIP,Affiliate,Active
+200876,2025-08-26,CA,New,Affiliate,Active
+200877,2026-01-25,FR,Casual,Email,Active
+200878,2025-09-25,AU,Casual,Organic Search,Active
+200879,2026-01-20,UK,Casual,Organic Search,Active
+200880,2025-12-04,UK,New,Referral,Active
+200881,2025-10-14,BR,New,Paid Social,Active
+200882,2026-01-29,US,New,Organic Search,Active
+200883,2025-12-11,NL,Regular,Organic Search,Active
+200884,2025-10-13,UK,Casual,Organic Search,Active
+200885,2025-11-27,CA,Regular,Display Ads,Active
+200886,2025-11-28,BR,New,Paid Social,Active
+200887,2025-11-28,US,New,Affiliate,Active
+200888,2026-02-13,US,Regular,Affiliate,Active
+200889,2025-08-31,US,New,Referral,Active
+200890,2025-12-19,ES,New,Affiliate,Active
+200891,2025-09-21,US,New,Paid Social,Active
+200892,2025-10-19,UK,New,Referral,Active
+200893,2025-08-22,US,Casual,Paid Social,Active
+200894,2025-11-30,DE,Regular,Organic Search,Active
+200895,2025-08-05,US,Casual,Display Ads,Active
+200896,2025-10-14,BR,New,Display Ads,Active
+200897,2025-11-26,NL,Regular,Affiliate,Active
+200898,2025-08-20,CA,New,Referral,Active
+200899,2026-02-26,CA,New,Email,Active
+200900,2025-12-08,DE,New,Paid Social,Active
+200901,2025-11-24,BR,Regular,Organic Search,Active
+200902,2025-10-08,US,New,Organic Search,Active
+200903,2025-11-08,ES,Regular,Email,Active
+200904,2025-09-23,AU,Casual,Display Ads,Active
+200905,2025-09-23,BR,Casual,Affiliate,Active
+200906,2025-08-20,UK,Regular,Display Ads,Active
+200907,2025-12-27,AU,New,Affiliate,Active
+200908,2025-08-24,DE,New,Affiliate,Active
+200909,2025-09-06,US,Regular,Paid Social,Active
+200910,2026-02-08,US,Casual,Affiliate,Active
+200911,2025-12-13,DE,New,Paid Social,Active
+200912,2025-10-07,DE,Casual,Email,Active
+200913,2025-11-01,BR,Casual,Display Ads,Active
+200914,2025-09-03,ES,Casual,Referral,Active
+200915,2026-01-02,US,Casual,Paid Social,Active
+200916,2026-02-26,UK,Casual,Paid Social,Active
+200917,2026-01-09,BR,New,Display Ads,Active
+200918,2025-12-09,UK,Casual,Referral,Active
+200919,2025-10-11,US,Regular,Affiliate,Active
+200920,2025-08-29,NL,Regular,Organic Search,Active
+200921,2026-01-28,UK,New,Display Ads,Active
+200922,2025-11-02,CA,New,Paid Social,Active
+200923,2025-09-29,UK,New,Affiliate,Active
+200924,2025-12-06,CA,New,Organic Search,Active
+200925,2025-12-03,US,New,Display Ads,Active
+200926,2025-11-09,FR,New,Email,Active
+200927,2025-08-07,BR,Casual,Paid Social,Active
+200928,2025-09-10,UK,New,Email,Active
+200929,2025-08-01,US,Casual,Display Ads,Active
+200930,2025-12-04,UK,New,Email,Active
+200931,2026-01-22,UK,VIP,Organic Search,Active
+200932,2025-11-24,UK,New,Organic Search,Active
+200933,2025-11-12,US,Regular,Paid Social,Active
+200934,2025-10-17,BR,Casual,Affiliate,Active
+200935,2026-02-03,US,Regular,Paid Social,Active
+200936,2025-09-06,US,Casual,Organic Search,Active
+200937,2025-11-15,ES,New,Paid Social,Active
+200938,2025-10-28,BR,Casual,Display Ads,Active
+200939,2025-11-05,US,New,Email,Active
+200940,2025-10-20,US,New,Organic Search,Locked
+200941,2025-08-31,DE,Casual,Paid Social,Active
+200942,2026-03-04,NL,New,Email,Active
+200943,2025-10-24,US,Regular,Paid Social,Active
+200944,2025-08-01,DE,Casual,Affiliate,Active
+200945,2025-10-23,US,Casual,Paid Social,Active
+200946,2026-02-09,BR,Casual,Display Ads,Active
+200947,2025-10-26,UK,Regular,Affiliate,Active
+200948,2026-03-03,CA,New,Paid Social,Active
+200949,2025-11-10,FR,New,Referral,Active
+200950,2025-08-31,DE,New,Paid Social,Active
+200951,2025-09-20,US,VIP,Paid Social,Active
+200952,2026-01-30,UK,Casual,Display Ads,Active
+200953,2025-08-04,NL,Casual,Email,Active
+200954,2026-02-06,BR,New,Organic Search,Active
+200955,2025-10-14,UK,Regular,Organic Search,Active
+200956,2025-10-04,FR,New,Email,Active
+200957,2025-11-04,US,Casual,Paid Social,Active
+200958,2025-08-17,UK,New,Email,Active
+200959,2025-11-09,NL,Regular,Paid Social,Active
+200960,2025-11-08,US,New,Organic Search,Active
+200961,2025-12-29,NL,Casual,Organic Search,Active
+200962,2025-08-20,AU,Casual,Affiliate,Active
+200963,2025-11-01,ES,New,Referral,Active
+200964,2025-11-18,CA,Casual,Display Ads,Active
+200965,2026-02-10,US,New,Paid Social,Active
+200966,2025-10-10,US,Regular,Paid Social,Active
+200967,2026-03-07,BR,Casual,Referral,Active
+200968,2025-08-13,UK,New,Referral,Active
+200969,2025-10-11,BR,New,Email,Active
+200970,2025-08-27,US,New,Referral,Active
+200971,2025-08-14,AU,New,Affiliate,Active
+200972,2026-03-02,AU,New,Referral,Active
+200973,2026-01-17,ES,Casual,Affiliate,Active
+200974,2025-10-13,US,Casual,Email,Active
+200975,2026-01-10,US,VIP,Affiliate,Active
+200976,2025-09-08,US,Casual,Organic Search,Active
+200977,2025-10-03,US,Regular,Email,Active
+200978,2025-10-08,BR,New,Organic Search,Active
+200979,2025-11-20,UK,Casual,Affiliate,Active
+200980,2025-12-09,BR,New,Referral,Active
+200981,2025-10-20,US,New,Affiliate,Active
+200982,2025-09-18,CA,New,Affiliate,Active
+200983,2026-02-14,NL,Casual,Display Ads,Locked
+200984,2025-11-04,NL,New,Paid Social,Active
+200985,2026-02-17,US,New,Affiliate,Active
+200986,2025-11-18,BR,New,Referral,Active
+200987,2025-08-08,DE,VIP,Display Ads,Locked
+200988,2026-02-24,US,New,Paid Social,Active
+200989,2026-02-11,FR,Regular,Organic Search,Active
+200990,2026-01-09,US,VIP,Email,Active
+200991,2025-11-11,CA,Casual,Affiliate,Active
+200992,2025-12-20,NL,VIP,Affiliate,Active
+200993,2025-12-19,BR,VIP,Display Ads,Active
+200994,2025-09-22,US,Regular,Display Ads,Active
+200995,2026-02-01,ES,Casual,Paid Social,Active
+200996,2025-08-21,US,New,Paid Social,Self-Excluded
+200997,2025-08-13,NL,New,Affiliate,Active
+200998,2026-02-04,DE,New,Paid Social,Active
+200999,2025-11-14,FR,New,Affiliate,Active
+201000,2025-11-24,US,Casual,Paid Social,Active
+201001,2026-01-05,US,Casual,Email,Active
+201002,2026-02-09,DE,Regular,Affiliate,Active
+201003,2025-09-05,UK,New,Email,Active
+201004,2026-01-12,AU,Casual,Email,Active
+201005,2025-10-13,US,New,Affiliate,Active
+201006,2025-12-03,UK,New,Organic Search,Active
+201007,2025-08-13,US,Regular,Organic Search,Active
+201008,2025-12-19,UK,New,Paid Social,Active
+201009,2025-09-02,NL,Casual,Email,Active
+201010,2025-09-13,US,New,Affiliate,Active
+201011,2025-11-29,BR,Casual,Email,Active
+201012,2025-11-15,US,New,Organic Search,Active
+201013,2025-10-27,NL,New,Referral,Locked
+201014,2025-10-12,UK,Casual,Display Ads,Active
+201015,2025-10-16,US,Casual,Organic Search,Active
+201016,2025-10-05,BR,Casual,Organic Search,Active
+201017,2026-02-06,NL,New,Email,Active
+201018,2026-02-06,US,Regular,Paid Social,Active
+201019,2026-01-15,US,New,Paid Social,Active
+201020,2025-10-06,US,VIP,Email,Active
+201021,2025-11-12,UK,Regular,Email,Active
+201022,2026-01-15,NL,Regular,Display Ads,Active
+201023,2025-10-01,AU,New,Paid Social,Active
+201024,2025-10-17,CA,Casual,Affiliate,Active
+201025,2025-12-02,US,VIP,Organic Search,Active
+201026,2025-12-21,DE,Casual,Affiliate,Active
+201027,2026-01-19,DE,Casual,Email,Active
+201028,2025-11-09,US,New,Paid Social,Active
+201029,2025-08-31,FR,New,Affiliate,Active
+201030,2025-09-12,NL,Casual,Referral,Active
+201031,2026-01-12,US,Casual,Organic Search,Locked
+201032,2025-09-11,CA,Casual,Paid Social,Active
+201033,2025-08-20,AU,New,Paid Social,Active
+201034,2025-09-23,US,New,Display Ads,Active
+201035,2025-12-07,US,Regular,Referral,Active
+201036,2026-02-24,US,New,Affiliate,Active
+201037,2025-12-06,BR,VIP,Paid Social,Active
+201038,2025-12-19,US,New,Email,Active
+201039,2025-09-26,US,Casual,Organic Search,Active
+201040,2025-11-24,FR,Casual,Referral,Active
+201041,2025-10-25,BR,Casual,Paid Social,Active
+201042,2026-02-11,BR,Regular,Display Ads,Active
+201043,2025-11-24,UK,Regular,Organic Search,Active
+201044,2025-11-18,NL,Regular,Organic Search,Active
+201045,2025-09-05,US,New,Email,Active
+201046,2025-12-19,UK,New,Organic Search,Active
+201047,2025-09-19,CA,New,Affiliate,Active
+201048,2025-10-02,DE,New,Paid Social,Active
+201049,2025-08-24,US,Casual,Affiliate,Active
+201050,2025-09-14,US,Casual,Affiliate,Active
+201051,2025-10-27,NL,Casual,Affiliate,Active
+201052,2025-12-21,CA,Casual,Affiliate,Active
+201053,2025-08-24,UK,Casual,Referral,Active
+201054,2025-10-21,NL,New,Organic Search,Active
+201055,2025-10-01,CA,Regular,Referral,Active
+201056,2025-11-03,CA,Regular,Organic Search,Active
+201057,2025-10-06,DE,Regular,Email,Active
+201058,2026-02-24,US,Regular,Paid Social,Active
+201059,2025-12-24,US,New,Referral,Active
+201060,2025-09-21,FR,New,Organic Search,Active
+201061,2025-08-06,CA,Casual,Display Ads,Active
+201062,2026-02-08,US,New,Display Ads,Active
+201063,2025-11-14,US,Casual,Email,Locked
+201064,2025-11-07,ES,Casual,Email,Active
+201065,2025-11-14,BR,Casual,Referral,Active
+201066,2026-02-07,UK,New,Organic Search,Active
+201067,2025-12-13,US,Casual,Affiliate,Active
+201068,2025-09-23,AU,New,Organic Search,Active
+201069,2025-11-05,US,New,Organic Search,Active
+201070,2025-10-09,BR,New,Referral,Active
+201071,2025-10-26,US,Regular,Display Ads,Active
+201072,2026-02-09,NL,New,Display Ads,Active
+201073,2025-08-16,BR,Regular,Paid Social,Active
+201074,2025-12-06,UK,Casual,Organic Search,Active
+201075,2025-10-11,UK,Casual,Affiliate,Active
+201076,2025-12-26,DE,New,Organic Search,Active
+201077,2025-11-01,FR,VIP,Email,Active
+201078,2025-09-02,DE,Casual,Email,Active
+201079,2026-01-23,ES,New,Affiliate,Active
+201080,2025-12-07,US,Regular,Email,Active
+201081,2025-12-14,UK,Casual,Organic Search,Active
+201082,2026-01-09,BR,Regular,Email,Active
+201083,2026-02-19,UK,Casual,Paid Social,Active
+201084,2026-03-09,NL,VIP,Affiliate,Active
+201085,2026-03-06,DE,Regular,Display Ads,Active
+201086,2025-09-25,CA,Casual,Affiliate,Active
+201087,2025-08-24,NL,Regular,Email,Active
+201088,2025-10-09,UK,New,Organic Search,Active
+201089,2025-10-03,DE,Regular,Organic Search,Active
+201090,2025-11-07,FR,Casual,Display Ads,Active
+201091,2025-11-11,AU,Regular,Display Ads,Active
+201092,2026-01-13,US,Regular,Email,Active
+201093,2025-11-23,NL,Casual,Affiliate,Active
+201094,2025-11-19,DE,Regular,Paid Social,Active
+201095,2025-10-19,CA,Casual,Organic Search,Active
+201096,2026-03-06,CA,Casual,Email,Active
+201097,2026-02-25,NL,VIP,Email,Active
+201098,2025-08-06,NL,Casual,Paid Social,Active
+201099,2025-09-02,DE,New,Affiliate,Active
+201100,2025-08-09,CA,New,Affiliate,Active
+201101,2025-11-17,NL,New,Affiliate,Active
+201102,2026-01-29,US,Casual,Affiliate,Active
+201103,2026-02-12,US,Casual,Affiliate,Active
+201104,2026-02-22,UK,New,Organic Search,Active
+201105,2025-11-30,DE,Casual,Organic Search,Active
+201106,2025-12-29,US,VIP,Paid Social,Active
+201107,2025-12-04,US,Regular,Paid Social,Active
+201108,2025-08-01,US,Casual,Paid Social,Active
+201109,2025-08-19,US,Casual,Display Ads,Locked
+201110,2025-11-09,US,Regular,Display Ads,Active
+201111,2026-02-28,US,New,Referral,Active
+201112,2025-12-14,US,Regular,Paid Social,Active
+201113,2026-03-07,CA,Casual,Affiliate,Active
+201114,2025-11-28,US,New,Affiliate,Active
+201115,2025-11-23,BR,Casual,Paid Social,Active
+201116,2025-10-03,UK,New,Email,Active
+201117,2026-02-17,US,New,Email,Active
+201118,2025-08-28,FR,New,Referral,Active
+201119,2025-09-27,BR,New,Paid Social,Active
+201120,2025-09-09,CA,Casual,Paid Social,Active
+201121,2025-09-08,US,New,Paid Social,Active
+201122,2025-12-12,FR,Regular,Referral,Active
+201123,2026-01-22,BR,New,Referral,Active
+201124,2025-08-28,NL,Regular,Email,Active
+201125,2026-02-28,ES,Casual,Affiliate,Self-Excluded
+201126,2026-02-01,DE,New,Paid Social,Active
+201127,2026-01-27,CA,Regular,Email,Active
+201128,2026-01-13,US,Casual,Affiliate,Active
+201129,2026-03-05,US,New,Display Ads,Active
+201130,2026-02-12,AU,Regular,Paid Social,Active
+201131,2025-11-26,DE,New,Organic Search,Locked
+201132,2025-08-22,US,Casual,Email,Active
+201133,2025-12-20,US,Casual,Organic Search,Active
+201134,2026-02-15,US,Casual,Organic Search,Locked
+201135,2025-08-11,BR,Casual,Affiliate,Active
+201136,2025-08-01,US,Regular,Referral,Active
+201137,2026-02-17,US,Regular,Paid Social,Active
+201138,2025-09-02,UK,New,Organic Search,Active
+201139,2025-09-29,CA,Casual,Affiliate,Active
+201140,2025-12-24,ES,Casual,Email,Active
+201141,2025-08-10,DE,New,Display Ads,Active
+201142,2026-01-13,UK,Casual,Paid Social,Active
+201143,2026-01-31,NL,Regular,Paid Social,Active
+201144,2025-10-17,AU,Casual,Referral,Active
+201145,2025-09-02,US,New,Email,Active
+201146,2026-01-08,US,Casual,Paid Social,Active
+201147,2025-10-04,UK,Casual,Organic Search,Active
+201148,2025-12-14,US,Regular,Paid Social,Active
+201149,2026-01-10,BR,Regular,Paid Social,Active
+201150,2025-11-20,BR,New,Affiliate,Active
+201151,2026-01-26,US,New,Organic Search,Active
+201152,2026-02-12,NL,New,Organic Search,Active
+201153,2025-08-29,DE,Regular,Display Ads,Active
+201154,2025-08-26,US,Regular,Affiliate,Active
+201155,2025-08-19,FR,New,Organic Search,Active
+201156,2025-10-16,ES,Regular,Referral,Active
+201157,2025-12-13,ES,Casual,Organic Search,Active
+201158,2025-12-28,NL,VIP,Paid Social,Active
+201159,2025-09-19,NL,Casual,Affiliate,Active
+201160,2025-11-08,UK,Regular,Referral,Active
+201161,2025-10-06,UK,Casual,Display Ads,Active
+201162,2025-09-27,US,New,Paid Social,Active
+201163,2026-02-19,UK,Regular,Organic Search,Active
+201164,2026-01-01,US,New,Organic Search,Active
+201165,2025-08-01,US,Regular,Paid Social,Active
+201166,2025-08-03,AU,Casual,Organic Search,Active
+201167,2025-12-16,US,New,Paid Social,Active
+201168,2025-10-17,US,Casual,Paid Social,Active
+201169,2025-11-26,FR,Regular,Display Ads,Active
+201170,2025-10-11,DE,New,Display Ads,Active
+201171,2025-10-20,UK,New,Paid Social,Locked
+201172,2026-01-13,BR,Regular,Paid Social,Active
+201173,2026-03-03,US,New,Email,Active
+201174,2025-10-02,US,New,Referral,Active
+201175,2025-11-30,UK,Casual,Email,Active
+201176,2025-12-13,US,Regular,Paid Social,Active
+201177,2025-09-30,ES,VIP,Organic Search,Active
+201178,2025-12-19,NL,New,Paid Social,Active
+201179,2025-10-03,AU,New,Organic Search,Active
+201180,2025-08-08,NL,VIP,Affiliate,Active
+201181,2025-11-14,US,Casual,Affiliate,Active
+201182,2026-01-28,UK,Regular,Organic Search,Active
+201183,2026-01-14,NL,New,Email,Active
+201184,2025-10-18,AU,New,Referral,Active
+201185,2025-08-15,DE,Regular,Paid Social,Active
+201186,2025-08-06,FR,New,Paid Social,Active
+201187,2025-09-19,US,New,Affiliate,Active
+201188,2025-12-06,US,New,Referral,Active
+201189,2026-01-20,US,New,Affiliate,Active
+201190,2026-01-13,NL,New,Email,Active
+201191,2025-11-16,US,New,Affiliate,Active
+201192,2025-08-21,NL,New,Paid Social,Active
+201193,2025-10-05,US,Casual,Email,Active
+201194,2025-09-28,BR,Casual,Affiliate,Active
+201195,2026-01-18,DE,Casual,Organic Search,Active
+201196,2025-11-17,US,New,Referral,Active
+201197,2025-11-03,FR,Casual,Email,Active
+201198,2025-09-28,ES,Casual,Affiliate,Active
+201199,2025-12-05,ES,New,Affiliate,Active
+201200,2025-08-09,ES,Casual,Organic Search,Active
+201201,2026-01-26,ES,VIP,Organic Search,Active
+201202,2025-10-26,BR,Regular,Paid Social,Active
+201203,2026-01-31,UK,Casual,Display Ads,Active
+201204,2025-11-16,NL,New,Organic Search,Active
+201205,2025-11-01,UK,New,Paid Social,Locked
+201206,2026-01-22,US,New,Affiliate,Locked
+201207,2025-11-10,NL,New,Email,Active
+201208,2025-09-20,US,Casual,Display Ads,Active
+201209,2025-08-02,UK,Casual,Affiliate,Active
+201210,2026-02-21,ES,New,Organic Search,Active
+201211,2025-10-14,BR,Casual,Paid Social,Active
+201212,2026-02-06,CA,Casual,Email,Active
+201213,2026-03-05,US,Regular,Paid Social,Active
+201214,2025-12-08,DE,Regular,Organic Search,Active
+201215,2025-08-18,DE,VIP,Display Ads,Active
+201216,2025-09-22,ES,Casual,Email,Active
+201217,2025-12-05,US,Regular,Referral,Active
+201218,2025-09-21,AU,Casual,Organic Search,Active
+201219,2025-10-19,BR,New,Referral,Active
+201220,2026-02-13,AU,New,Organic Search,Active
+201221,2026-02-26,BR,Casual,Paid Social,Active
+201222,2025-09-19,ES,Casual,Organic Search,Active
+201223,2025-09-29,DE,Casual,Organic Search,Active
+201224,2025-11-28,AU,Casual,Email,Active
+201225,2025-09-26,US,Casual,Referral,Active
+201226,2025-10-07,FR,Casual,Referral,Active
+201227,2026-02-11,BR,Casual,Affiliate,Active
+201228,2025-10-15,BR,New,Organic Search,Active
+201229,2025-08-28,US,Casual,Organic Search,Active
+201230,2026-01-07,CA,New,Paid Social,Active
+201231,2025-12-05,NL,Casual,Email,Active
+201232,2026-01-04,BR,New,Affiliate,Active
+201233,2025-09-17,US,New,Organic Search,Active
+201234,2025-09-27,UK,Regular,Paid Social,Active
+201235,2025-12-03,AU,Casual,Affiliate,Active
+201236,2025-11-15,AU,Regular,Organic Search,Active
+201237,2026-01-18,UK,New,Organic Search,Active
+201238,2025-08-15,US,New,Affiliate,Active
+201239,2025-12-31,US,New,Email,Active
+201240,2025-09-07,US,Regular,Paid Social,Active
+201241,2025-11-09,US,Casual,Paid Social,Active
+201242,2025-08-14,US,Regular,Email,Active
+201243,2025-09-24,ES,New,Affiliate,Active
+201244,2025-08-07,ES,Casual,Affiliate,Active
+201245,2025-12-31,UK,New,Referral,Active
+201246,2025-09-06,NL,Regular,Email,Active
+201247,2025-11-15,US,Casual,Organic Search,Active
+201248,2025-08-14,US,VIP,Affiliate,Active
+201249,2026-01-29,FR,Casual,Organic Search,Active
+201250,2025-08-16,DE,Casual,Organic Search,Active
+201251,2025-09-17,US,New,Organic Search,Active
+201252,2025-11-09,NL,Casual,Organic Search,Active
+201253,2025-11-24,FR,Regular,Email,Active
+201254,2026-01-30,FR,Casual,Organic Search,Active
+201255,2025-10-20,CA,Casual,Organic Search,Active
+201256,2026-02-04,FR,Regular,Paid Social,Active
+201257,2025-08-29,US,Casual,Referral,Active
+201258,2025-08-21,CA,Casual,Affiliate,Locked
+201259,2025-09-12,FR,Casual,Affiliate,Active
+201260,2025-10-24,DE,Casual,Referral,Active
+201261,2025-09-18,DE,Casual,Paid Social,Active
+201262,2025-09-17,US,Regular,Email,Locked
+201263,2026-01-15,CA,Casual,Affiliate,Active
+201264,2025-12-13,NL,New,Paid Social,Active
+201265,2026-02-08,NL,New,Paid Social,Active
+201266,2025-11-28,AU,Casual,Display Ads,Active
+201267,2025-08-09,US,Casual,Email,Self-Excluded
+201268,2025-10-19,US,Regular,Affiliate,Locked
+201269,2026-01-18,US,VIP,Affiliate,Active
+201270,2026-02-02,AU,Regular,Affiliate,Active
+201271,2025-11-05,US,Casual,Organic Search,Active
+201272,2026-03-03,US,Casual,Organic Search,Active
+201273,2025-11-04,US,Regular,Affiliate,Active
+201274,2025-10-24,BR,New,Referral,Active
+201275,2025-11-22,DE,New,Email,Active
+201276,2025-09-13,AU,New,Affiliate,Active
+201277,2025-08-28,US,Casual,Referral,Active
+201278,2025-08-01,US,Regular,Affiliate,Active
+201279,2025-08-21,AU,New,Paid Social,Active
+201280,2025-10-11,US,New,Affiliate,Active
+201281,2025-08-21,ES,New,Display Ads,Active
+201282,2025-10-29,FR,Regular,Display Ads,Active
+201283,2025-11-16,US,New,Email,Active
+201284,2025-09-01,US,New,Affiliate,Active
+201285,2025-12-22,BR,New,Organic Search,Active
+201286,2026-02-11,US,New,Organic Search,Active
+201287,2025-09-23,NL,New,Email,Active
+201288,2025-11-06,US,Casual,Organic Search,Active
+201289,2025-10-31,US,Casual,Paid Social,Locked
+201290,2026-02-13,FR,New,Email,Locked
+201291,2026-02-27,US,Casual,Organic Search,Active
+201292,2025-10-19,NL,New,Email,Active
+201293,2026-02-27,UK,VIP,Paid Social,Active
+201294,2026-02-22,US,New,Email,Active
+201295,2025-11-19,US,Casual,Referral,Locked
+201296,2025-08-23,DE,VIP,Paid Social,Active
+201297,2025-08-13,NL,New,Paid Social,Active
+201298,2026-01-28,US,New,Paid Social,Locked
+201299,2025-11-30,UK,Casual,Affiliate,Active
+201300,2025-09-20,DE,Casual,Email,Active
+201301,2025-11-04,FR,New,Affiliate,Active
+201302,2025-12-17,ES,Casual,Paid Social,Active
+201303,2025-11-23,CA,Regular,Paid Social,Active
+201304,2025-09-19,CA,Casual,Organic Search,Active
+201305,2025-10-22,NL,New,Referral,Active
+201306,2025-11-02,NL,Casual,Affiliate,Active
+201307,2026-02-05,UK,Regular,Email,Active
+201308,2025-11-30,NL,New,Affiliate,Active
+201309,2025-08-08,US,Casual,Display Ads,Active
+201310,2026-01-09,AU,Casual,Affiliate,Active
+201311,2025-11-14,NL,Casual,Affiliate,Active
+201312,2025-10-03,DE,New,Organic Search,Active
+201313,2026-02-24,ES,New,Email,Active
+201314,2026-01-08,US,New,Organic Search,Active
+201315,2026-02-13,AU,Regular,Organic Search,Active
+201316,2025-11-12,ES,New,Paid Social,Active
+201317,2025-08-11,DE,New,Email,Active
+201318,2025-11-05,DE,Casual,Affiliate,Active
+201319,2025-08-09,US,New,Paid Social,Active
+201320,2025-11-27,AU,New,Display Ads,Active
+201321,2025-08-17,DE,Casual,Email,Active
+201322,2026-02-22,FR,New,Organic Search,Active
+201323,2025-08-16,US,Casual,Paid Social,Active
+201324,2025-10-05,FR,Casual,Referral,Active
+201325,2025-09-19,US,New,Email,Active
+201326,2026-02-08,BR,New,Referral,Active
+201327,2025-08-17,US,Regular,Email,Active
+201328,2026-01-03,US,New,Organic Search,Locked
+201329,2025-10-26,US,New,Organic Search,Active
+201330,2025-11-01,UK,New,Affiliate,Active
+201331,2025-10-09,NL,New,Organic Search,Active
+201332,2025-10-25,US,Regular,Referral,Active
+201333,2026-01-05,DE,New,Display Ads,Active
+201334,2025-08-12,US,VIP,Paid Social,Active
+201335,2025-10-07,CA,New,Affiliate,Active
+201336,2026-02-08,US,Casual,Paid Social,Active
+201337,2026-01-31,US,Casual,Organic Search,Active
+201338,2026-01-24,UK,Casual,Organic Search,Active
+201339,2025-10-21,CA,New,Referral,Active
+201340,2025-10-10,US,New,Email,Active
+201341,2025-10-16,FR,Casual,Paid Social,Active
+201342,2025-08-01,US,Regular,Organic Search,Active
+201343,2026-02-01,NL,New,Email,Active
+201344,2026-02-10,US,New,Paid Social,Active
+201345,2025-12-31,NL,New,Referral,Active
+201346,2026-02-23,US,VIP,Affiliate,Active
+201347,2026-01-10,NL,New,Paid Social,Active
+201348,2025-08-17,US,New,Affiliate,Active
+201349,2025-08-07,US,Regular,Paid Social,Active
+201350,2026-02-28,US,New,Organic Search,Active
+201351,2025-09-29,ES,Regular,Organic Search,Active
+201352,2025-08-28,US,Casual,Affiliate,Active
+201353,2025-11-30,US,VIP,Email,Active
+201354,2026-01-31,ES,New,Organic Search,Active
+201355,2025-11-28,US,Regular,Organic Search,Active
+201356,2026-02-15,DE,New,Organic Search,Active
+201357,2025-11-07,UK,Regular,Display Ads,Active
+201358,2026-02-19,US,New,Organic Search,Active
+201359,2025-10-04,NL,Casual,Paid Social,Active
+201360,2025-11-19,CA,Regular,Organic Search,Active
+201361,2026-02-25,US,Casual,Affiliate,Active
+201362,2025-12-05,ES,Casual,Affiliate,Active
+201363,2025-09-03,AU,New,Affiliate,Active
+201364,2025-12-06,US,Regular,Referral,Active
+201365,2025-09-16,US,Casual,Organic Search,Active
+201366,2025-08-03,NL,New,Display Ads,Active
+201367,2026-02-22,UK,New,Referral,Active
+201368,2026-02-06,DE,Regular,Organic Search,Active
+201369,2025-10-17,UK,New,Affiliate,Active
+201370,2026-02-27,AU,New,Organic Search,Active
+201371,2026-01-25,UK,Casual,Email,Active
+201372,2026-02-14,BR,Casual,Email,Active
+201373,2025-09-08,DE,Casual,Affiliate,Active
+201374,2026-01-03,US,New,Paid Social,Active
+201375,2025-09-30,UK,New,Email,Active
+201376,2025-10-23,AU,New,Paid Social,Active
+201377,2026-03-09,DE,Casual,Organic Search,Active
+201378,2025-10-21,UK,New,Referral,Active
+201379,2025-11-26,US,Regular,Paid Social,Active
+201380,2025-11-01,ES,Casual,Display Ads,Active
+201381,2026-02-17,UK,Casual,Affiliate,Active
+201382,2026-02-17,CA,Regular,Organic Search,Locked
+201383,2025-12-31,CA,New,Email,Active
+201384,2025-08-21,UK,Regular,Display Ads,Active
+201385,2025-12-10,CA,New,Organic Search,Active
+201386,2025-09-20,US,New,Paid Social,Active
+201387,2025-11-09,UK,VIP,Affiliate,Active
+201388,2026-02-09,US,Casual,Referral,Active
+201389,2025-09-10,US,Regular,Referral,Active
+201390,2025-10-03,UK,New,Affiliate,Active
+201391,2025-11-13,NL,New,Email,Active
+201392,2025-08-17,UK,Casual,Referral,Active
+201393,2026-01-14,DE,Regular,Organic Search,Active
+201394,2025-08-09,NL,New,Display Ads,Active
+201395,2025-12-02,BR,Casual,Email,Active
+201396,2025-12-20,ES,Regular,Referral,Active
+201397,2025-12-18,FR,New,Email,Active
+201398,2025-10-23,DE,Casual,Email,Active
+201399,2025-09-11,US,Regular,Organic Search,Active
+201400,2025-11-18,US,Casual,Affiliate,Active
+201401,2025-08-27,US,Casual,Organic Search,Active
+201402,2025-08-19,US,Casual,Paid Social,Active
+201403,2025-10-07,FR,Regular,Email,Active
+201404,2026-01-07,FR,New,Affiliate,Active
+201405,2025-08-22,US,Casual,Paid Social,Active
+201406,2025-09-23,AU,New,Organic Search,Active
+201407,2025-08-25,UK,New,Affiliate,Active
+201408,2025-11-16,DE,Regular,Organic Search,Active
+201409,2025-12-06,US,VIP,Paid Social,Active
+201410,2026-01-29,AU,New,Email,Active
+201411,2025-11-23,US,Regular,Paid Social,Active
+201412,2025-09-14,US,Casual,Affiliate,Active
+201413,2025-09-29,UK,Casual,Display Ads,Active
+201414,2025-09-04,UK,New,Paid Social,Active
+201415,2025-11-15,DE,New,Paid Social,Active
+201416,2025-11-26,NL,New,Paid Social,Active
+201417,2026-01-06,US,Casual,Paid Social,Active
+201418,2026-01-20,ES,New,Display Ads,Locked
+201419,2025-09-30,UK,Regular,Organic Search,Active
+201420,2026-02-08,AU,New,Organic Search,Active
+201421,2025-12-16,FR,Casual,Email,Active
+201422,2026-03-05,AU,Casual,Organic Search,Locked
+201423,2026-02-15,AU,New,Paid Social,Active
+201424,2026-01-18,BR,Regular,Referral,Active
+201425,2026-02-11,US,Regular,Organic Search,Active
+201426,2025-09-01,DE,Casual,Paid Social,Active
+201427,2026-02-16,BR,New,Paid Social,Active
+201428,2026-03-04,BR,Casual,Affiliate,Active
+201429,2025-10-15,NL,Casual,Affiliate,Active
+201430,2025-10-15,UK,New,Referral,Active
+201431,2025-10-11,US,Casual,Organic Search,Active
+201432,2025-12-24,ES,Regular,Paid Social,Active
+201433,2025-10-08,US,Regular,Referral,Active
+201434,2025-11-04,FR,Casual,Email,Active
+201435,2025-10-05,US,New,Paid Social,Active
+201436,2026-02-05,CA,New,Organic Search,Active
+201437,2025-10-06,FR,Regular,Organic Search,Active
+201438,2025-09-20,US,New,Email,Active
+201439,2025-11-21,CA,Casual,Organic Search,Active
+201440,2025-10-03,US,Casual,Organic Search,Active
+201441,2025-09-17,NL,Casual,Organic Search,Active
+201442,2025-10-02,BR,Regular,Paid Social,Active
+201443,2025-09-30,FR,New,Affiliate,Active
+201444,2025-09-09,UK,Casual,Organic Search,Active
+201445,2025-10-12,NL,New,Affiliate,Active
+201446,2025-12-27,US,Regular,Display Ads,Active
+201447,2025-09-18,ES,New,Affiliate,Active
+201448,2025-10-23,US,New,Affiliate,Active
+201449,2025-08-17,FR,New,Referral,Active
+201450,2025-11-10,US,Casual,Affiliate,Active
+201451,2025-10-04,US,New,Affiliate,Active
+201452,2025-10-02,NL,Regular,Email,Active
+201453,2025-12-08,US,Casual,Organic Search,Active
+201454,2025-12-13,NL,New,Organic Search,Active
+201455,2025-09-29,ES,Casual,Display Ads,Active
+201456,2026-01-14,ES,VIP,Paid Social,Active
+201457,2026-02-23,ES,Casual,Organic Search,Active
+201458,2025-08-26,NL,New,Organic Search,Self-Excluded
+201459,2026-01-15,US,Casual,Display Ads,Active
+201460,2025-11-27,NL,Regular,Organic Search,Active
+201461,2025-08-10,CA,Casual,Affiliate,Active
+201462,2025-08-27,US,New,Referral,Active
+201463,2025-08-02,NL,New,Organic Search,Active
+201464,2025-11-30,US,New,Paid Social,Active
+201465,2026-02-26,UK,Casual,Referral,Active
+201466,2025-09-29,AU,Regular,Paid Social,Active
+201467,2026-03-04,US,New,Paid Social,Active
+201468,2025-11-23,ES,Regular,Affiliate,Active
+201469,2025-11-04,FR,New,Email,Active
+201470,2025-08-11,ES,New,Paid Social,Active
+201471,2025-10-15,US,New,Organic Search,Active
+201472,2025-09-29,ES,Regular,Organic Search,Active
+201473,2025-08-31,AU,Regular,Paid Social,Active
+201474,2025-08-13,US,New,Referral,Active
+201475,2025-09-18,NL,New,Display Ads,Active
+201476,2026-01-01,NL,Casual,Affiliate,Active
+201477,2026-02-28,CA,New,Organic Search,Active
+201478,2025-12-28,NL,VIP,Affiliate,Active
+201479,2025-09-19,NL,Casual,Organic Search,Active
+201480,2025-08-20,US,New,Organic Search,Active
+201481,2025-11-04,BR,Casual,Organic Search,Active
+201482,2025-12-10,NL,Casual,Display Ads,Active
+201483,2025-09-15,AU,Regular,Affiliate,Active
+201484,2025-11-23,US,Regular,Organic Search,Active
+201485,2026-01-02,UK,New,Display Ads,Active
+201486,2025-10-06,DE,Regular,Paid Social,Active
+201487,2026-02-15,CA,VIP,Organic Search,Active
+201488,2026-02-16,UK,Casual,Referral,Active
+201489,2026-01-18,US,Casual,Affiliate,Active
+201490,2025-08-02,US,Casual,Affiliate,Active
+201491,2025-08-28,CA,New,Affiliate,Active
+201492,2026-01-11,UK,New,Organic Search,Active
+201493,2025-12-31,DE,New,Organic Search,Active
+201494,2026-01-29,NL,New,Referral,Self-Excluded
+201495,2026-01-06,US,New,Affiliate,Active
+201496,2025-10-29,CA,Casual,Paid Social,Active
+201497,2025-09-25,NL,Casual,Affiliate,Active
+201498,2025-08-10,AU,Casual,Affiliate,Active
+201499,2025-11-03,US,Regular,Display Ads,Active
+201500,2025-10-27,ES,Casual,Referral,Active
+201501,2025-09-06,US,Casual,Display Ads,Active
+201502,2025-08-12,NL,Casual,Paid Social,Active
+201503,2025-09-22,US,Casual,Affiliate,Active
+201504,2025-10-05,FR,Regular,Email,Active
+201505,2025-08-10,UK,New,Referral,Active
+201506,2026-01-01,UK,Regular,Paid Social,Active
+201507,2026-02-04,US,New,Referral,Active
+201508,2026-01-14,CA,New,Affiliate,Active
+201509,2025-09-22,US,Regular,Paid Social,Active
+201510,2026-02-25,FR,New,Referral,Active
+201511,2025-08-03,UK,Regular,Organic Search,Active
+201512,2026-02-26,DE,New,Organic Search,Active
+201513,2025-10-23,DE,New,Organic Search,Active
+201514,2025-11-13,FR,Regular,Organic Search,Active
+201515,2026-01-21,NL,Regular,Email,Active
+201516,2025-11-04,DE,New,Paid Social,Active
+201517,2025-09-17,DE,Regular,Display Ads,Active
+201518,2026-01-06,FR,New,Organic Search,Active
+201519,2025-10-19,DE,Casual,Organic Search,Active
+201520,2025-08-20,UK,Regular,Paid Social,Active
+201521,2025-09-22,US,Regular,Affiliate,Active
+201522,2025-08-09,DE,Casual,Affiliate,Active
+201523,2026-02-20,US,Regular,Organic Search,Active
+201524,2025-12-05,FR,Casual,Affiliate,Active
+201525,2025-12-19,NL,New,Organic Search,Active
+201526,2025-12-02,BR,VIP,Paid Social,Active
+201527,2025-08-17,BR,Casual,Paid Social,Active
+201528,2025-11-13,US,New,Paid Social,Active
+201529,2025-08-26,US,Casual,Email,Active
+201530,2026-02-20,US,New,Email,Active
+201531,2025-11-10,DE,Casual,Organic Search,Active
+201532,2026-01-17,US,Casual,Referral,Active
+201533,2025-12-19,US,New,Paid Social,Active
+201534,2025-09-09,NL,New,Organic Search,Active
+201535,2026-01-11,CA,New,Organic Search,Active
+201536,2025-12-15,US,Regular,Referral,Active
+201537,2025-08-24,UK,New,Referral,Active
+201538,2026-01-15,ES,Casual,Affiliate,Active
+201539,2025-09-11,UK,Casual,Organic Search,Active
+201540,2025-11-10,US,Casual,Email,Locked
+201541,2026-01-26,UK,New,Affiliate,Active
+201542,2025-10-09,US,New,Affiliate,Active
+201543,2025-11-13,BR,New,Email,Active
+201544,2025-10-12,NL,New,Paid Social,Active
+201545,2026-01-18,US,Regular,Paid Social,Active
+201546,2025-10-18,DE,New,Organic Search,Locked
+201547,2025-11-15,AU,Casual,Paid Social,Active
+201548,2025-08-14,FR,New,Email,Active
+201549,2025-10-19,US,New,Affiliate,Active
+201550,2026-02-07,US,New,Paid Social,Active
+201551,2025-12-24,UK,VIP,Paid Social,Active
+201552,2025-10-31,US,New,Affiliate,Active
+201553,2025-11-15,AU,New,Email,Locked
+201554,2025-11-15,UK,Casual,Paid Social,Active
+201555,2025-08-05,CA,New,Organic Search,Active
+201556,2026-02-13,BR,New,Display Ads,Active
+201557,2026-02-22,US,New,Email,Active
+201558,2025-11-02,UK,Regular,Affiliate,Active
+201559,2026-01-12,UK,New,Organic Search,Active
+201560,2025-09-20,US,New,Affiliate,Active
+201561,2025-11-09,BR,Regular,Paid Social,Active
+201562,2026-02-03,ES,New,Organic Search,Active
+201563,2025-11-12,US,New,Paid Social,Active
+201564,2025-09-22,UK,New,Affiliate,Active
+201565,2025-08-02,CA,Regular,Affiliate,Active
+201566,2025-11-20,NL,Regular,Paid Social,Locked
+201567,2025-09-10,FR,Regular,Paid Social,Active
+201568,2025-11-17,NL,New,Email,Active
+201569,2025-08-30,BR,Regular,Organic Search,Active
+201570,2026-02-27,BR,New,Affiliate,Active
+201571,2025-08-24,CA,Casual,Affiliate,Active
+201572,2025-11-12,AU,Casual,Organic Search,Active
+201573,2025-12-26,CA,Casual,Organic Search,Active
+201574,2025-11-02,AU,VIP,Affiliate,Active
+201575,2025-11-26,ES,Regular,Affiliate,Active
+201576,2026-02-14,UK,Casual,Organic Search,Active
+201577,2025-09-11,US,Casual,Organic Search,Active
+201578,2025-09-03,FR,Regular,Affiliate,Active
+201579,2025-08-04,FR,New,Organic Search,Active
+201580,2025-08-14,ES,New,Paid Social,Active
+201581,2025-12-20,US,New,Referral,Active
+201582,2025-09-06,US,Regular,Email,Active
+201583,2026-01-12,DE,Regular,Affiliate,Active
+201584,2026-02-23,AU,New,Affiliate,Active
+201585,2025-11-10,US,VIP,Organic Search,Active
+201586,2025-08-23,NL,New,Affiliate,Active
+201587,2025-12-25,NL,New,Paid Social,Active
+201588,2026-01-07,US,New,Email,Active
+201589,2025-11-03,ES,Casual,Paid Social,Active
+201590,2026-02-05,UK,Regular,Affiliate,Active
+201591,2025-12-08,US,Regular,Referral,Active
+201592,2025-09-13,US,New,Paid Social,Active
+201593,2025-09-07,CA,New,Display Ads,Active
+201594,2025-10-29,US,Regular,Affiliate,Active
+201595,2025-10-12,ES,New,Paid Social,Active
+201596,2025-09-11,UK,Regular,Email,Active
+201597,2025-12-12,CA,Casual,Referral,Active
+201598,2025-09-13,AU,Casual,Organic Search,Active
+201599,2025-08-18,NL,Casual,Paid Social,Active
+201600,2025-08-28,UK,Casual,Referral,Active
